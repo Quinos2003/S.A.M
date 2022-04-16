@@ -1,3 +1,3 @@
 # S.A.M(SIGN AUTOMATTED LANGUAGE)
-<h1>Indian Sign language Recognition using OpenCV</h1>
+<h2>Indian Sign language Recognition using OpenCV</h2>
 
